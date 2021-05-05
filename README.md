@@ -34,6 +34,7 @@ The first step to getting setup is to [sign up][signup] and grab your `appId` an
 Install the Symbl Javascript SDK and other required Node modules:
 
 ```npm install```
+
 To ensure that microphone records, please add `sox`. Running the following command is the easiest way: 
 
 ```brew install sox``` 
