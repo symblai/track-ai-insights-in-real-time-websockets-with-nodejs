@@ -31,10 +31,12 @@ You will find the core of the application in `index.js`.
 
 The first step to getting setup is to [sign up][signup] and grab your `appId` and `appToken` from the Symbl Platform page. Replace lines 7 and 8 with those values. 
 
-
 Install the Symbl Javascript SDK and other required Node modules:
 
 ```npm install```
+To ensure that microphone records, please add `sox`. Running the following command is the easiest way: 
+
+```brew install sox``` 
 
 ## Integration 
 
